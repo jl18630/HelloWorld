@@ -36,5 +36,7 @@ public class MainActivity extends AppCompatActivity {
         textViewFirstName.setText(editTextFirstName.getText().toString());
         textViewLastName.setText(editTextLastName.getText().toString());
         textViewEmail.setText(editTextEmail.getText().toString());
+
+        //THIS IS A TEST MESSAGE
     }
 }
